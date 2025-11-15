@@ -1,0 +1,4 @@
+[
+    {"id": 1, "name": "John", "last_updated_ts": "2024-01-01"},
+    {"id": 2, "name": "Jane", "last_updated_ts": "2024-01-02"}
+]
